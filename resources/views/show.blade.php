@@ -4,7 +4,7 @@
     <div x-data="{ isOpen: false }" class="h-screen flex overflow-hidden">
         <x-main>
             <div
-                class="h-full text-right faseyha text-gray-700 text-md prettyprint linenums selectable" data-line-numbers="true" dir="rtl"
+                class="h-full text-right faseyha text-gray-700 dark:text-white text-md prettyprint linenums selectable" data-line-numbers="true" dir="rtl"
             >{!!$paste->content !!}
         </div>
         </x-main>
