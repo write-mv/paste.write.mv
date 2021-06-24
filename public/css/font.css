@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "faseyha";
+    src: url("/fonts/MVFaseyha.woff2");
+  }
+  
+  .faseyha
+  {
+    font-family: faseyha;
+  }
