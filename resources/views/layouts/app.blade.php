@@ -20,7 +20,7 @@
         }
     </script>
 
-    <title>Pastebin | Writemv</title>
+    <title>Dhivehi Pastebin | Writemv</title>
 
     <link href="https://rsms.me/inter/inter.css" rel="stylesheet">
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">

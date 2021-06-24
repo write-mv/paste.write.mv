@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noindex">
 
-    <title>Pastebin | Writemv</title>
+    <title>Dhivehi Pastebin | Writemv</title>
 
     @include('layouts.favicons')
 </head>
