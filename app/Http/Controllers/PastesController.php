@@ -17,7 +17,8 @@ class PastesController extends Controller
 
     public function show(Paste $paste)
     {
-        $paste->content = Str::replace("\n", "<br />", $paste->content);
+        $paste->content = Str::replace("\n", '<br />', $paste->content);
+
         return view('show', compact('paste'));
     }
 
